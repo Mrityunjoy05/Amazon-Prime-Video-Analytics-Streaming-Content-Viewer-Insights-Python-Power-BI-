@@ -25,7 +25,7 @@ In parallel, Power BI is used to transform these insights into interactive visua
 ## Business Objective
 The primary business objective of this analysis is to optimize content curation and audience engagement on Amazon Prime Video. By understanding content trends, regional preferences, and viewer ratings through both Python EDA and Power BI visualizations, Amazon can make informed decisions to enhance its content offerings and improve user satisfaction.
 
-## Impact & Achievements
+## Key Outcomes
 - Examined **120K+ Amazon Prime Video records** using Python and Power BI to uncover content and audience trends.  
 - Conducted EDA on 120K+ records, handled columns with 50%+ missing values, and engineered 4 custom features.  
 - Built **20+ KPIs in Power BI** for ratings, popularity, genre, and regional insights.  
